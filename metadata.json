@@ -1,0 +1,6 @@
+{
+  "name": "Livrete da ANE",
+  "description": "Livrete da ANE - Sistema SaaS para registo digital de jornadas e publicidade de trabalho de condução em Portugal, em conformidade com a Portaria n.º 7/2022 para TVDE, Táxis e Transportadoras.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
